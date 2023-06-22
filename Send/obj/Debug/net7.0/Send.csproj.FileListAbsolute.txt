@@ -1,0 +1,51 @@
+D:\Universidad\RabbitMQ\Send\bin\Debug\net7.0\Send.exe
+D:\Universidad\RabbitMQ\Send\bin\Debug\net7.0\Send.deps.json
+D:\Universidad\RabbitMQ\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+D:\Universidad\RabbitMQ\Send\bin\Debug\net7.0\Send.dll
+D:\Universidad\RabbitMQ\Send\bin\Debug\net7.0\Send.pdb
+D:\Universidad\RabbitMQ\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.dll
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\refint\Send.dll
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.pdb
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+D:\Universidad\RabbitMQ\Send\obj\Debug\net7.0\ref\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\refint\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.pdb
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\bin\Debug\net7.0\Send.exe
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\bin\Debug\net7.0\Send.deps.json
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\bin\Debug\net7.0\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\bin\Debug\net7.0\Send.pdb
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ\Send\obj\Debug\net7.0\ref\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\bin\Debug\net7.0\Send.exe
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\bin\Debug\net7.0\Send.deps.json
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\bin\Debug\net7.0\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\bin\Debug\net7.0\Send.pdb
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\refint\Send.dll
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.pdb
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+C:\Users\yeron\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\Uis\7to Semestre\Ingenieria de Software 1\2doCorte\RabbitMQ2\Send\obj\Debug\net7.0\ref\Send.dll
