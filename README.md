@@ -3,4 +3,6 @@ Este repositorio contiene un prototipo Publish-Subscribe usando el broker de men
 
 Los Publish usando el lenguaje de programación C# y los Subscribe usando el lenguaje de programación python
 
-Link del video para ver la implementación del prototipo:
+
+Link del video para ver la implementación del prototipo: https://youtu.be/np26sir3sgs
+
